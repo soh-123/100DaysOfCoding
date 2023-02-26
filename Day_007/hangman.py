@@ -1,6 +1,6 @@
 import random
-from hangman_art import*
-from hangman_words import*
+from hangman_art import *
+from hangman_words import *
 
 chosen_word = random.choice(word_list)
 display = []
@@ -31,7 +31,7 @@ while not end_of_game:
 
     print(f"{' '.join(display)}")
 
-    if "_" not  in display:
+    if "_" not in display:
         end_of_game = True
         print("You win")
     print(stages[lives])
