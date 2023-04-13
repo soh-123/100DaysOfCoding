@@ -1,16 +1,19 @@
 from bs4 import BeautifulSoup
 import requests
-import lxml
 import smtplib
-import encrypted_data
+import Day_047.encrypted_data as encrypted_data
+import os
 
 URL = "https://www.jashanmal.com/collections/cookers/products/electrolux-60x60-cm-gas-cooker"
-HEADER = {"My header"
+HEADER = {
+    "User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
+    "Accept-Language":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "Accept-Encoding":"gzip, deflate, br"
 }
 
-my_email = "my_email"
-my_password = "my_password"
-reciever_email = "reciever_email"
+my_email = os.environ["my_email"]
+my_password = os.environ["Namlah_password"]
+reciever_email = os.environ["reciever_email"]
 #--------------------------------------WEB SCRAPPING--------------------------------------------#
 
 response = requests.get(url=URL,headers=HEADER).text
