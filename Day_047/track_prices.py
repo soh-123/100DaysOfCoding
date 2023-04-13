@@ -1,7 +1,6 @@
 from bs4 import BeautifulSoup
 import requests
 import smtplib
-import Day_047.encrypted_data as encrypted_data
 import os
 
 URL = "https://www.jashanmal.com/collections/cookers/products/electrolux-60x60-cm-gas-cooker"
