@@ -2,10 +2,13 @@ from bs4 import BeautifulSoup
 import requests
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
+import os
 
 
-CLIENT_ID = "CLIENT_ID"
-CLIENT_SECRET = "CLIENT_SECRET"
+CLIENT_ID = os.environ["CLIENT_ID"]
+CLIENT_SECRET = os.environ["CLIENT_SECRET"]
+CACHE_PATH = {"access_token": "BQBBBe7TYp7uo1igD-VCZb9TCbecSXe5MQOwYvovrho4xCuH1ZVfATgfWWkxIYxbOxvLR3Lzt2LmyLsEYyILvqVOryRujSj1d-KO1RtULCqUQZ_3JZrEKXfVjEJa_w872MTNo3qemAnZ_Wok_fQ-ZAsn8nKV1r2rNpOzL_QxGBzLKnp8RmlZAvPE7iRUpRr_X-_lgtQ1tX8SEZJgX7zryrVpBKsJluAqccg7oSI", "token_type": "Bearer", "expires_in": 3600, "refresh_token": "AQAXJ9GQHAkySVzeohALfpN3mC-LswMD0JhBrbsUobkl3A1MjVxNtIW3NbVYnF6xoH-DhfCtUrhph4TOWAMRgmc4WJd8b9tMUG77iO4ZYyOBUxICz1Ez_RUJ07gOcWON4Ds", "scope": "playlist-modify-private", "expires_at": 1681108137}
+
 
 #--------------------------------------100 BILLBOARD WEB SCRAPPING--------------------------------------------#
 
@@ -26,7 +29,7 @@ sp = spotipy.Spotify(
     redirect_uri="http://example.com",
     scope="playlist-modify-private",
     show_dialog=True,
-    cache_path="Day_046/token.txt"))
+    cache_path=CACHE_PATH))
 
 user_id = sp.current_user()["id"]
 
