@@ -70,7 +70,3 @@ for i in range(len(all_links)):
     submit_form.click()
 
 driver.quit()
-
-
-
-
