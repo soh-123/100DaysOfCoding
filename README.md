@@ -33,8 +33,8 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - Day 25: Working with CSV Data and the Pandas Library
 - Day 26: List Comprehension & the NATO Pilot's Alphabet
 - Day 27: Tkinter, *args, **kwargs and Creating GUI Programs
-- Day 28: Tkinter, Dynamic Typing and the Pomodoro GUI Application
-- Day 29: Building a Password Manager GUI App with Tkinter
+- [Day 28](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_028): Tkinter, Dynamic Typing and the Pomodoro GUI Application
+- [Day 29](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_029): Building a Password Manager GUI App with Tkinter
 - Day 30: Errors, Exceptions and JSON Data: Improving the Password Manager
 - Day 31: Capstone Project - Flash Card App
 ## 💪 Intermediate+
@@ -90,9 +90,9 @@ Dau 37: Habit Tracking Pixel Project
 - Day 80: Capstone Project - Predict House Prices
 ## 👨‍💻 Professional
 - [Day 81](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_081): Portfolio Project - Text to Morse Code Converter
-- Day 82: Portfolio Project - A website to show off your skills and the things I built
-- Day 83: Portfolio Project - Built a text-based version of the Tic Tac Toe game
-- Day 84: Portfolio Project - A program where you can upload images and add a watermark
+- [Day 82](https://sohierlotfy.com/): Portfolio Project - A website to show off your skills and the things I built
+- [Day 83](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_083): Portfolio Project - Built a text-based version of the Tic Tac Toe game
+- [Day 84](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_084): Portfolio Project - A program where you can upload images and add a watermark
 - Day 85: Portfolio Project - A Tkinter GUI desktop application that tests your typing speed
 - Day 86: Portfolio Project - Using Python Turtle, build a clone of the 80s hit game Breakout
 - Day 87: Portfolio Project - Built a website that lists cafes with wifi and power for remote working
