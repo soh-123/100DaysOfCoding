@@ -15,7 +15,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - Day 8: Function Parameters & Caesar Cipher
 - Day 9: Dictionaries, Nesting and the Secret Auction
 - Day 10: Function Return Values and the Calculator Project
-- Day 11: Blackjack Capstone Project
+- [Day 11](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_011): Blackjack Capstone Project
 - Day 12: Scope and Namespacing in Python
 - Day 13: Debugging: How to Find and Fix Errors in your Code
 - Day 14: Higher Lower Game Project
@@ -89,7 +89,7 @@ Dau 37: Habit Tracking Pixel Project
 - Day 79: The Tragic Discovery of Handwashing: t-Tests & Distributions
 - Day 80: Capstone Project - Predict House Prices
 ## 👨‍💻 Professional
-- Day 81: Portfolio Project - Text to Morse Code Converter
+- [Day 81](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_081): Portfolio Project - Text to Morse Code Converter
 - Day 82: Portfolio Project - A website to show off your skills and the things I built
 - Day 83: Portfolio Project - Built a text-based version of the Tic Tac Toe game
 - Day 84: Portfolio Project - A program where you can upload images and add a watermark
