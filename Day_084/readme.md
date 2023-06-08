@@ -15,3 +15,17 @@ The Watermarking Tool is a graphical user interface (GUI) application developed 
 
 - Generate Watermarked Image: Upon clicking the "Generate" button, the application applies the chosen watermark to the uploaded image and saves the watermarked image as a new JPEG file in a specified location.
 
+## Dependencies
+The Watermark project requires the following dependencies:
+
+- Python 3.x
+- PIL (Python Imaging Library)
+- tkinter (Python's standard GUI library)
+
+## Acknowledgments
+
+The Watermark project was developed as a practical exercise to explore image manipulation and GUI programming in Python. It draws inspiration from various watermarking tools and tutorials available online.
+
+Feel free to customize and enhance the program according to your needs. Contributions and suggestions are always welcome!
+
+Protect and personalize your images easily with the Watermark application!

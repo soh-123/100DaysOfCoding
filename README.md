@@ -32,11 +32,11 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - Day 24: Files, Directories and Paths
 - Day 25: Working with CSV Data and the Pandas Library
 - Day 26: List Comprehension & the NATO Pilot's Alphabet
-- Day 27: Tkinter, *args, **kwargs and Creating GUI Programs
+- [Day 27](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_027): Tkinter, *args, **kwargs and Creating GUI Programs
 - [Day 28](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_028): Tkinter, Dynamic Typing and the Pomodoro GUI Application
 - [Day 29](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_029): Building a Password Manager GUI App with Tkinter
-- Day 30: Errors, Exceptions and JSON Data: Improving the Password Manager
-- Day 31: Capstone Project - Flash Card App
+- [Day 30](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_030): Errors, Exceptions and JSON Data: Improving the Password Manager
+- [Day 31](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_031): Capstone Project - Flash Card App
 ## 💪 Intermediate+
 - Day 32: Send Email (smtplib) & Manage Dates (datetime): The Automated Birthday Wisher
 - Day 33: API Endpoints and API Parameters - ISS Overhead Notifier
@@ -93,7 +93,7 @@ Dau 37: Habit Tracking Pixel Project
 - [Day 82](https://sohierlotfy.com/): Portfolio Project - A website to show off your skills and the things I built
 - [Day 83](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_083): Portfolio Project - Built a text-based version of the Tic Tac Toe game
 - [Day 84](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_084): Portfolio Project - A program where you can upload images and add a watermark
-- Day 85: Portfolio Project - A Tkinter GUI desktop application that tests your typing speed
+- [Day 85](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_085): Portfolio Project - A Tkinter GUI desktop application that tests your typing speed
 - Day 86: Portfolio Project - Using Python Turtle, build a clone of the 80s hit game Breakout
 - Day 87: Portfolio Project - Built a website that lists cafes with wifi and power for remote working
 - Day 88: Portfolio Project - Built a todo list website with Flask

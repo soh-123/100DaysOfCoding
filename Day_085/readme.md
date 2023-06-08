@@ -2,7 +2,7 @@
 
 The Typing Speed Test is a simple Python program that allows users to measure their typing speed in words per minute (WPM). It provides a user-friendly interface where users can enter the displayed text, and the program will track their speed and accuracy.
 
-<img src="Day_085/Screenshot.png">
+<img src="Screenshot.png">
 
 ## Features
 

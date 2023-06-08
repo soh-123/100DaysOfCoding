@@ -1,6 +1,10 @@
 # Tic Tac Toe Game
 
-The Tic Tac Toe game is a classic two-player game implemented using a Python script. It provides a command-line interface where players can take turns marking spots on a 3x3 board until one of them wins or the game ends in a draw.
+The Tic-Tac-Toe project is a classic game implemented in Python. It provides a command-line interface (CLI) for users to play the popular game of Tic-Tac-Toe against each other.
+
+## Game Rules
+
+Tic-Tac-Toe is a two-player game played on a 3x3 grid. The players take turns marking spaces on the grid with their respective symbols (X or O). The goal is to get three of their symbols in a horizontal, vertical, or diagonal row.
 
 ## Features:
 
@@ -13,3 +17,11 @@ The Tic Tac Toe game is a classic two-player game implemented using a Python scr
 - Draw Detection: If all spots on the board are filled, and no player has achieved a winning condition, the game ends in a draw. The script detects this scenario and displays a "Draw!" message.
 
 - Quitting the Game: At any point during the game, a player can press 'q' to quit, and the game will end immediately.
+  
+## Acknowledgments
+
+The Tic-Tac-Toe project was developed as a fun exercise to practice Python programming and logic. It draws inspiration from the classic game of Tic-Tac-Toe and various online resources and tutorials.
+
+Feel free to customize and enhance the game according to your preferences. Contributions and suggestions are always welcome!
+
+Enjoy playing Tic-Tac-Toe with your friends using this Python implementation!
