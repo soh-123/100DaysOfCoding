@@ -30,7 +30,7 @@ def home():
 def add_cafe():
     form = CafeForm()
     if form.validate_on_submit():
-        with open("cafe-data.csv", mode="a") as csv_file:
+        with open("Day_062/cafe-data.csv", mode="a") as csv_file:
             csv_file.write(f"\n{form.cafe.data},"
                            f"{form.location.data},"
                            f"{form.open.data},"
@@ -44,7 +44,7 @@ def add_cafe():
 
 @app.route('/cafes')
 def cafes():
-    with open('cafe-data.csv', newline='') as csv_file:
+    with open('Day_062/cafe-data.csv', newline='') as csv_file:
         csv_data = csv.reader(csv_file, delimiter=',')
         list_of_rows = []
         for row in csv_data:
