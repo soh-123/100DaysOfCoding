@@ -11,14 +11,14 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - Day 4: Randomisation and Python Lists
 - Day 5: Python Loops
 - Day 6: Python Functions & Karel
-- Day 7: Hangman
+- [Day 7](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_007): Hangman
 - Day 8: Function Parameters & Caesar Cipher
 - Day 9: Dictionaries, Nesting and the Secret Auction
 - Day 10: Function Return Values and the Calculator Project
 - [Day 11](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_011): Blackjack Capstone Project
 - Day 12: Scope and Namespacing in Python
 - Day 13: Debugging: How to Find and Fix Errors in your Code
-- Day 14: Higher Lower Game Project
+- [Day 14](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_014): Higher Lower Game Project
 ## 🏋🏻‍♂️ Intermediate
 - Day 15: Local Development Environment Setup & the Coffee Machine Project
 - Day 16: Object Oriented Programming (OOP)
@@ -28,10 +28,10 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - Day 20: Build the Snake Game Part 1: Animation & Coordinates
 - Day 21: Build the Snake Game Part 2: Inheritance & List Slicing
 - Day 22: Build Pong: The Famous Arcade Game
-- Day 23: The Turtle Crossing Capstone Project
-- Day 24: Files, Directories and Paths
+- [Day 23](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_023-Capstone%20Project): The Turtle Crossing Capstone Project
+- [Day 24](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_024): Files, Directories and Paths
 - Day 25: Working with CSV Data and the Pandas Library
-- Day 26: List Comprehension & the NATO Pilot's Alphabet
+- [Day 26](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_026): List Comprehension & the NATO Pilot's Alphabet
 - [Day 27](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_027): Tkinter, *args, **kwargs and Creating GUI Programs
 - [Day 28](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_028): Tkinter, Dynamic Typing and the Pomodoro GUI Application
 - [Day 29](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_029): Building a Password Manager GUI App with Tkinter
@@ -69,11 +69,11 @@ Dau 37: Habit Tracking Pixel Project
 - Day 59: Upgraded Blog with Bootstrap
 - Day 60: HTML Forms with Flask
 - Day 61: Building Advanced Forms with WTForms
-- Day 62: Flask, WTForms, Bootstrap and CSV - Coffee & Wifi Project
+- [Day 62](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_062): Flask, WTForms, Bootstrap and CSV - Coffee & Wifi Project
 - Day 63: Databases and with SQLite and SQLAlchemy
 - Day 64: My Top 10 Movies Website
 - Day 65: Web Design School - How to Create a Website that People will Love
-- Day 66: Building Your Own API with RESTful Routing
+- [Day 66](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_066): Building Your Own API with RESTful Routing
 - Day 67: Blog Capstone Project Part 3 - RESTful Routing
 - Day 68: Authentication with Flask
 - Day 69: Blog Capstone Project Part 4 - Adding Users
@@ -94,8 +94,8 @@ Dau 37: Habit Tracking Pixel Project
 - [Day 83](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_083): Portfolio Project - Built a text-based version of the Tic Tac Toe game
 - [Day 84](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_084): Portfolio Project - A program where you can upload images and add a watermark
 - [Day 85](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_085): Portfolio Project - A Tkinter GUI desktop application that tests your typing speed
-- Day 86: Portfolio Project - Using Python Turtle, build a clone of the 80s hit game Breakout
-- Day 87: Portfolio Project - Built a website that lists cafes with wifi and power for remote working
+- [Day 86](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_086): Portfolio Project - Using Python Turtle, build a clone of the 80s hit game Breakout
+- [Day 87](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_087): Portfolio Project - Built a website that lists cafes with wifi and power for remote working
 - Day 88: Portfolio Project - Built a todo list website with Flask
 - Day 89: Portfolio Project - Disappearing Text Writing App
 - Day 90: Portfolio Project - Convert PDF to Audiobook
