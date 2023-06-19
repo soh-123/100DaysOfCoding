@@ -4,7 +4,7 @@ import random
 is_race_on = False
 screen = Screen()
 screen.setup(width= 500,height= 400)
-user_bet = screen.textinput("Make your bet", "Who will win this race? enter acolor")
+user_bet = screen.textinput("Make your bet", "Who will win this race? enter a color")
 
 color_list = ["salmon", "goldenrod", "red", "brown", "purple", "olive"]
 y_cordinate = -100
