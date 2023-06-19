@@ -16,7 +16,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - Day 9: Dictionaries, Nesting and the Secret Auction
 - Day 10: Function Return Values and the Calculator Project
 - [Day 11](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_011): Blackjack Capstone Project
-- Day 12: Scope and Namespacing in Python
+- [Day 12](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_012): Scope and Namespacing in Python
 - Day 13: Debugging: How to Find and Fix Errors in your Code
 - [Day 14](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_014): Higher Lower Game Project
 ## 🏋🏻‍♂️ Intermediate
@@ -24,10 +24,10 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - Day 16: Object Oriented Programming (OOP)
 - Day 17: The Quiz Project & the Benefits of OOP
 - Day 18: Turtle Graphics and GUIs
-- Day 19: Instances, State and Higher Order Functions
-- Day 20: Build the Snake Game Part 1: Animation & Coordinates
-- Day 21: Build the Snake Game Part 2: Inheritance & List Slicing
-- Day 22: Build Pong: The Famous Arcade Game
+- [Day 19](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_019): Instances, State and Higher Order Functions
+- [Day 20](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_020-021_SnakeGame): Build the Snake Game Part 1: Animation & Coordinates
+- [Day 21](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_020-021_SnakeGame): Build the Snake Game Part 2: Inheritance & List Slicing
+- [Day 22](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_022-PongGame): Build Pong: The Famous Arcade Game
 - [Day 23](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_023-Capstone%20Project): The Turtle Crossing Capstone Project
 - [Day 24](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_024): Files, Directories and Paths
 - Day 25: Working with CSV Data and the Pandas Library
@@ -96,7 +96,7 @@ Dau 37: Habit Tracking Pixel Project
 - [Day 85](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_085): Portfolio Project - A Tkinter GUI desktop application that tests your typing speed
 - [Day 86](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_086): Portfolio Project - Using Python Turtle, build a clone of the 80s hit game Breakout
 - [Day 87](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_087): Portfolio Project - Built a website that lists cafes with wifi and power for remote working
-- Day 88: Portfolio Project - Built a todo list website with Flask
+- [Day 88](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_088): Portfolio Project - Built a todo list website with Flask
 - Day 89: Portfolio Project - Disappearing Text Writing App
 - Day 90: Portfolio Project - Convert PDF to Audiobook
 - Day 91: Portfolio Project - Image Colour Palette Generator
