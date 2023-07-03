@@ -20,10 +20,10 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - Day 13: Debugging: How to Find and Fix Errors in your Code
 - [Day 14](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_014): Higher Lower Game Project
 ## 🏋🏻‍♂️ Intermediate
-- Day 15: Local Development Environment Setup & the Coffee Machine Project
-- Day 16: Object Oriented Programming (OOP)
-- Day 17: The Quiz Project & the Benefits of OOP
-- Day 18: Turtle Graphics and GUIs
+- [Day 15](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_015): Local Development Environment Setup & the Coffee Machine Project
+- [Day 16](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_016): Object Oriented Programming (OOP)
+- [Day 17](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_017): The Quiz Project & the Benefits of OOP
+- [Day 18](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_018): Turtle Graphics and GUIs
 - [Day 19](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_019): Instances, State and Higher Order Functions
 - [Day 20](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_020-021_SnakeGame): Build the Snake Game Part 1: Animation & Coordinates
 - [Day 21](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_020-021_SnakeGame): Build the Snake Game Part 2: Inheritance & List Slicing
@@ -97,10 +97,10 @@ Dau 37: Habit Tracking Pixel Project
 - [Day 86](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_086): Portfolio Project - Using Python Turtle, build a clone of the 80s hit game Breakout
 - [Day 87](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_087): Portfolio Project - Built a website that lists cafes with wifi and power for remote working
 - [Day 88](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_088): Portfolio Project - Built a todo list website with Flask
-- Day 89: Portfolio Project - Disappearing Text Writing App
-- Day 90: Portfolio Project - Convert PDF to Audiobook
-- Day 91: Portfolio Project - Image Colour Palette Generator
-- Day 92: Portfolio Project - Built a custom web scraper to collect data
+- [Day 89](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_089): Portfolio Project - Disappearing Text Writing App
+- [Day 90](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_090): Portfolio Project - Convert PDF to Audiobook
+- [Day 91](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_091): Portfolio Project - Image Colour Palette Generator
+- [Day 92](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_092): Portfolio Project - Built a custom web scraper to collect data
 - Day 93: Portfolio Project - Automate the Google Dinosaur Game
 - Day 94: Portfolio Project - Space Invaders
 - Day 95: Portfolio Project - Built a custom website using an API
