@@ -14,7 +14,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day 7](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_007): Hangman
 - Day 8: Function Parameters & Caesar Cipher
 - Day 9: Dictionaries, Nesting and the Secret Auction
-- Day 10: Function Return Values and the Calculator Project
+- [Day 10](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_010): Function Return Values and the Calculator Project
 - [Day 11](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_011): Blackjack Capstone Project
 - [Day 12](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_012): Scope and Namespacing in Python
 - Day 13: Debugging: How to Find and Fix Errors in your Code
@@ -101,8 +101,8 @@ Dau 37: Habit Tracking Pixel Project
 - [Day 90](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_090): Portfolio Project - Convert PDF to Audiobook
 - [Day 91](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_091): Portfolio Project - Image Colour Palette Generator
 - [Day 92](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_092): Portfolio Project - Built a custom web scraper to collect data
-- Day 93: Portfolio Project - Automate the Google Dinosaur Game
-- Day 94: Portfolio Project - Space Invaders
+- [Day 93](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_093): Portfolio Project - Automate the Google Dinosaur Game
+- [Day 94](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_094): Portfolio Project - Space Invaders
 - Day 95: Portfolio Project - Built a custom website using an API
 - Day 96: Portfolio Project - An eCommerce website with payment processing
 - Day 97: Portfolio Project - Sent a WhatsApp Message with Python
