@@ -17,7 +17,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day 10](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_010): Function Return Values and the Calculator Project
 - [Day 11](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_011): Blackjack Capstone Project
 - [Day 12](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_012): Scope and Namespacing in Python
-- Day 13: Debugging: How to Find and Fix Errors in your Code
+- [Day 13](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_013): Debugging: How to Find and Fix Errors in your Code
 - [Day 14](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_014): Higher Lower Game Project
 ## 🏋🏻‍♂️ Intermediate
 - [Day 15](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_015): Local Development Environment Setup & the Coffee Machine Project
@@ -30,7 +30,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day 22](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_022-PongGame): Build Pong: The Famous Arcade Game
 - [Day 23](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_023-Capstone%20Project): The Turtle Crossing Capstone Project
 - [Day 24](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_024): Files, Directories and Paths
-- Day 25: Working with CSV Data and the Pandas Library
+- [Day 25](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_025): Working with CSV Data and the Pandas Library
 - [Day 26](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_026): List Comprehension & the NATO Pilot's Alphabet
 - [Day 27](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_027): Tkinter, *args, **kwargs and Creating GUI Programs
 - [Day 28](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_028): Tkinter, Dynamic Typing and the Pomodoro GUI Application
