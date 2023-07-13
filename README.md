@@ -5,15 +5,15 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 
 
 ## 👨🏻‍🎓 Beginner
-- Day 1: Working with Variables in Python to Manage Data
-- Day 2: Understanding Data Types and How to Manipulate Strings
-- Day 3: Control Flow and Logical Operators
-- Day 4: Randomisation and Python Lists
-- Day 5: Python Loops
-- Day 6: Python Functions & Karel
+- [Day 1](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_001): Working with Variables in Python to Manage Data
+- [Day 2](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_002): Understanding Data Types and How to Manipulate Strings
+- [Day 3](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_003): Control Flow and Logical Operators
+- [Day 4](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_004): Randomisation and Python Lists
+- [Day 5](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_005): Python Loops
+- [Day 6](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_006): Python Functions & Karel
 - [Day 7](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_007): Hangman
-- Day 8: Function Parameters & Caesar Cipher
-- Day 9: Dictionaries, Nesting and the Secret Auction
+- [Day 8](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_008): Function Parameters & Caesar Cipher
+- [Day 9](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_009): Dictionaries, Nesting and the Secret Auction
 - [Day 10](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_010): Function Return Values and the Calculator Project
 - [Day 11](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_011): Blackjack Capstone Project
 - [Day 12](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_012): Scope and Namespacing in Python
@@ -38,56 +38,53 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day 30](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_030): Errors, Exceptions and JSON Data: Improving the Password Manager
 - [Day 31](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_031): Capstone Project - Flash Card App
 ## 💪 Intermediate+
-- Day 32: Send Email (smtplib) & Manage Dates (datetime): The Automated Birthday Wisher
-- Day 33: API Endpoints and API Parameters - ISS Overhead Notifier
-- Day 34: API Practice - Creating a GUI Quiz App
-- Day 35: Keys, Authentication & Environment Variables: Send SMS
-- Day 36: Stock Trading News Alert Project
-Dau 37: Habit Tracking Pixel Project
-- Day 38: Build a Workout Tracking App that Talks to Google Sheets!
-- Day 39: Capstone Part 1: Flight Deal Finder
-- Day 40: Capstone Part 2: Flight Club!
-- Day 41: Introduction to HTML
-- Day 42: Intermediate HTML
-- Day 43: Introduction to CSS
-- Day 44: Intermediate CSS
-- Day 45: Web Scraping with Beautiful Soup
-- Day 46: Create a Spotify Playlist using the Musical Time Machine
-- Day 47: Create an Automated Amazon Price Tracker
-- Day 48: Selenium Webdriver and Game Playing Bot
-- Day 49: Automating Job Applications on LinkedIn
-- Day 50: Automated Tinder Swiper
-- Day 51: Internet Speed Twitter Complaint Bot
-- Day 52: Instagram Follower Bot
-- Day 53: Automated Data Entry Job
-- Day 54: Introduction to Web Development with Flask
-- Day 55: HTML & URL Parsing in Flask and the Higher Lower Game
-- Day 56: Rendering HTML/Static Files and Name Card Project
-- Day 57: Templating with Jinja and Blog Project
-- Day 58: Bootstrap
+- [Day 32](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_032): Send Email (smtplib) & Manage Dates (datetime): The Automated Birthday Wisher
+- [Day 33](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_033): API Endpoints and API Parameters - ISS Overhead Notifier
+- [Day 34](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_034): API Practice - Creating a GUI Quiz App
+- [Day 35](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_035): Keys, Authentication & Environment Variables: Send SMS
+- [Day 36](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_036): Stock Trading News Alert Project
+- [Day 37](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_037): Habit Tracking Pixel Project
+- [Day 38](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_038): Build a Workout Tracking App that Talks to Google Sheets!
+- [Day 39](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_039%2B040%20(Capstone%20Project)): Capstone Part 1: Flight Deal Finder
+- [Day 40](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_039%2B040%20(Capstone%20Project)): Capstone Part 2: Flight Club!
+- [Day 41](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_041-042-043-044): Introduction to HTML
+- [Day 42](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_041-042-043-044): Intermediate HTML
+- [Day 43](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_041-042-043-044): Introduction to CSS
+- [Day 44](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_041-042-043-044): Intermediate CSS
+- [Day 45](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_045): Web Scraping with Beautiful Soup
+- [Day 46](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_046): Create a Spotify Playlist using the Musical Time Machine
+- [Day 47](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_047): Create an Automated Amazon Price Tracker
+- [Day 48](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_048): Selenium Webdriver and Game Playing Bot
+- [Day 51](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_051): Internet Speed Twitter Complaint Bot
+- [Day 53](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_053): Automated Data Entry Job
+- [Day 54](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_054): Introduction to Web Development with Flask
+- [Day 55](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_055): HTML & URL Parsing in Flask and the Higher Lower Game
+- [Day 56](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_056): Rendering HTML/Static Files and Name Card Project
+- [Day 57](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_057): Templating with Jinja and Blog Project
+- [Day 58](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_058): Bootstrap
 ## 🚀 Advanced
-- Day 59: Upgraded Blog with Bootstrap
-- Day 60: HTML Forms with Flask
-- Day 61: Building Advanced Forms with WTForms
+- [Day 59](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_059-060(Capstone%20Project)): Upgraded Blog with Bootstrap
+- [Day 60](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_059-060(Capstone%20Project)): HTML Forms with Flask
+- [Day 61](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_061): Building Advanced Forms with WTForms
 - [Day 62](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_062): Flask, WTForms, Bootstrap and CSV - Coffee & Wifi Project
-- Day 63: Databases and with SQLite and SQLAlchemy
-- Day 64: My Top 10 Movies Website
-- Day 65: Web Design School - How to Create a Website that People will Love
+- [Day 63](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_063): Databases and with SQLite and SQLAlchemy
+- [Day 64](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_064): My Top 10 Movies Website
+- [Day 65](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_066): Web Design School - How to Create a Website that People will Love
 - [Day 66](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_066): Building Your Own API with RESTful Routing
-- Day 67: Blog Capstone Project Part 3 - RESTful Routing
-- Day 68: Authentication with Flask
-- Day 69: Blog Capstone Project Part 4 - Adding Users
-- Day 70: Deploying Your Web Application with Heroku
-- Day 71: Data Exploration with Pandas: College Major
-- Day 72: Data Visualisation with Matplotlib: Programming Languages
-- Day 73: Aggregate & Merge Data with Pandas: Analyse the LEGO Dataset
-- Day 74: Google Trends Data: Resampling and Visualising Time Series
-- Day 75: Beautiful Plotly Charts & Analysing the Android App Store
-- Day 76: Computation with NumPy and N-Dimensional Arrays
-- Day 77: Linear Regression and Data Visualisation with Seaborn
-- Day 78: Analysing the Nobel Prize with Plotly, Matplotlib & Seaborn
-- Day 79: The Tragic Discovery of Handwashing: t-Tests & Distributions
-- Day 80: Capstone Project - Predict House Prices
+- [Day 67](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_067): Blog Capstone Project Part 3 - RESTful Routing
+- [Day 68](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_068): Authentication with Flask
+- [Day 69](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_069): Blog Capstone Project Part 4 - Adding Users
+- [Day 70](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_069): Deploying Your Web Application with Heroku
+- [Day 71](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_071): Data Exploration with Pandas: College Major
+- [Day 72](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_072): Data Visualisation with Matplotlib: Programming Languages
+- [Day 73](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_073): Aggregate & Merge Data with Pandas: Analyse the LEGO Dataset
+- [Day 74](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_074): Google Trends Data: Resampling and Visualising Time Series
+- [Day 75](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_075): Beautiful Plotly Charts & Analysing the Android App Store
+- [Day 76](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_076): Computation with NumPy and N-Dimensional Arrays
+- [Day 77](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_077): Linear Regression and Data Visualisation with Seaborn
+- [Day 78](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_078): Analysing the Nobel Prize with Plotly, Matplotlib & Seaborn
+- [Day 79](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_079): The Tragic Discovery of Handwashing: t-Tests & Distributions
+- [Day 80](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_080(Capstone%20Project)): Capstone Project - Predict House Prices
 ## 👨‍💻 Professional
 - [Day 81](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_081): Portfolio Project - Text to Morse Code Converter
 - [Day 82](https://sohierlotfy.com/): Portfolio Project - A website to show off your skills and the things I built
@@ -103,12 +100,12 @@ Dau 37: Habit Tracking Pixel Project
 - [Day 92](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_092): Portfolio Project - Built a custom web scraper to collect data
 - [Day 93](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_093): Portfolio Project - Automate the Google Dinosaur Game
 - [Day 94](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_094): Portfolio Project - Space Invaders
-- Day 95: Portfolio Project - Built a custom website using an API
-- Day 96: Portfolio Project - An eCommerce website with payment processing
-- Day 97: Portfolio Project - Sent a WhatsApp Message with Python
-- Day 98: Portfolio Project - Analysed and Visualise the Space Race
-- Day 99: Portfolio Project - Analyzing Deaths involving Police in the United States
-- Day 100: Portfolio Project - Predicting Earnings using Multivariable Regression
+- [Day 95](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_095): Portfolio Project - Built a custom website using an API
+- [Day 96](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_096): Portfolio Project - An eCommerce website with payment processing
+- [Day 97](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_097): Portfolio Project - Sent a WhatsApp Message with Python
+- [Day 98](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_098): Portfolio Project - Analysed and Visualise the Space Race
+- [Day 99](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_098): Portfolio Project - Analyzing Deaths involving Police in the United States
+- [Day 100](https://github.com/soh-123/100DaysOfCoding/tree/main/Day_098): Portfolio Project - Predicting Earnings using Multivariable Regression
 
 ## ⚙ Tools and Technologies Covered
 - Python 3
